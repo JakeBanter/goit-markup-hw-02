@@ -46,6 +46,10 @@ body {
   color: var(--logo-studio-color);
 }
 
+.logo-studio-footer {
+  color: #f4f4fd;
+}
+
 .nav,
 .nav:visited {
   font-weight: 600;
